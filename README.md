@@ -5,6 +5,9 @@
 <p><strong>Building production-ready AI applications, autonomous agents, and intelligent vision systems.</strong></p>
 
 <p>
+  <a href="https://ammar-m-ai.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ammar-moharram-306b10271">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -27,6 +30,7 @@
 name: Ammar Moharram
 role: Software & AI Engineer
 location: Ankara, Türkiye 🇹🇷
+portfolio: https://ammar-m-ai.netlify.app/
 focus:
   - Agentic AI & Multi-Agent Workflows
   - LLM Applications & Advanced RAG
@@ -209,6 +213,9 @@ Enterprise data analytics and machine learning platform exploring biostatistical
 <p>Open for full-time AI Engineer, LLM Engineer, or Software Engineering roles.</p>
 
 <p>
+  <a href="https://ammar-m-ai.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ammar-moharram-306b10271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
