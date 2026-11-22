@@ -110,7 +110,7 @@ Web-based virtual try-on application using YOLO object detection and image-proce
   <a href="https://github.com/AMMMMMMAR/vds-frontend" target="_blank">
     <img src="https://img.shields.io/badge/Frontend-161B22?style=for-the-badge&logo=github&logoColor=white" alt="VDS Frontend" />
   </a>
-  <a href="https://github.com/AMMMMMMAR/AI-dressing" target="_blank">
+  <a href="https://github.com/AMMMMMMAR/ai-dresser.git" target="_blank">
     <img src="https://img.shields.io/badge/AI_Engine-161B22?style=for-the-badge&logo=github&logoColor=white" alt="VDS AI Engine" />
   </a>
 </p>
